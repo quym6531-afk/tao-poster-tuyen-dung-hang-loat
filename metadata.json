@@ -1,0 +1,6 @@
+{
+  "name": "AI Tạo Poster Tuyển Dụng",
+  "description": "Nhà máy sản xuất nội dung tuyển dụng bằng AI: Nhập một lần – AI tự động phân tích, tạo 10 concept, 10 poster chuẩn tiếng Việt và 10 bài đăng tuyển dụng đa kênh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
